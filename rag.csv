@@ -1,0 +1,105 @@
+Store-Id,Store Name,Date of Purchase,,Product,Sub-category,Category,Quantity,Total Amount,Phone,Bill No,Index
+9,Epicuria DEL,14-02-2019,1,4 Ckn Wings,Appeatesers,Food,1,1658.31,1366334416,3416,0
+9,Epicuria DEL,14-02-2019,1,Caesar Salad,Salads,Food,1,1658.31,1366334416,3416,1
+9,Epicuria DEL,14-02-2019,1,Chk Livers Port,Appeatesers,Food,1,1658.31,1366334416,3416,2
+9,Epicuria DEL,14-02-2019,1,Hot*,Flavour,Flavour,1,1658.31,1366334416,3416,3
+9,Epicuria DEL,14-02-2019,1,Instruction,Special Instruction,Special Instruction,1,1658.31,1366334416,3416,4
+9,Epicuria DEL,14-02-2019,1,Mild*,Flavour,Flavour,1,1658.31,1366334416,3416,5
+9,Epicuria DEL,14-02-2019,1,Mojito,Designer Drinks,Liquor,1,1658.31,1366334416,3416,6
+9,Epicuria DEL,14-02-2019,1,Peri Humus drizz,Appeatesers,Food,1,1658.31,1366334416,3416,7
+9,Epicuria DEL,14-02-2019,1,Spicy Mxd Olives,Appeatesers,Food,1,1658.31,1366334416,3416,8
+9,Epicuria DEL,13-04-2019,1,Strwberry Cucmbr,Soft Drinks,Beverage,1,185,187990976,470,9
+9,Epicuria DEL,17-04-2019,1,15% DineOut,,,1,684.04,587171816,1468,10
+9,Epicuria DEL,17-04-2019,1,15% DineOut,,,1,684.04,587171816,1468,11
+9,Epicuria DEL,17-04-2019,1,Butterfly+1Side,Peri Peri Chicken,Food,1,684.04,587171816,1468,12
+9,Epicuria DEL,17-04-2019,1,Chips RegC,Sides,Food,1,684.04,587171816,1468,13
+9,Epicuria DEL,17-04-2019,1,Mild*,Flavour,Flavour,1,684.04,587171816,1468,14
+9,Epicuria DEL,17-04-2019,1,Peri Chk Nan 1SD,Meal Deals,Food,1,684.04,587171816,1468,15
+11,Orion Mall BLR,07-01-2019,1,1/2 Chk 1SD,Peri Peri Chicken,Food,1,1595.43,1315936835,3290,16
+11,Orion Mall BLR,07-01-2019,1,4Wings Spicy,Meal Deals,Food,1,1595.43,1315936835,3290,17
+11,Orion Mall BLR,07-01-2019,1,Any Piece,Special Instruction,Special Instruction,1,1595.43,1315936835,3290,18
+11,Orion Mall BLR,07-01-2019,1,Brst Brgr 1SD,BPW,Food,1,1595.43,1315936835,3290,19
+11,Orion Mall BLR,07-01-2019,1,Chips RegC,Sides,Food,1,1595.43,1315936835,3290,20
+11,Orion Mall BLR,07-01-2019,1,Coleslaw RegC,Sides,Food,1,1595.43,1315936835,3290,21
+11,Orion Mall BLR,07-01-2019,1,Fanta,Soft Drinks,Beverage,1,1595.43,1315936835,3290,22
+11,Orion Mall BLR,07-01-2019,1,Mild,Flavour,Flavour,1,1595.43,1315936835,3290,23
+11,Orion Mall BLR,07-01-2019,1,Mild,Retail,Retail,1,1595.43,1315936835,3290,24
+11,Orion Mall BLR,16-01-2019,1,1/4 Ckn 1SD,Peri Peri Chicken,Food,1,771.42,656768475,1642,25
+11,Orion Mall BLR,16-01-2019,1,Any Piece,Special Instruction,Special Instruction,1,771.42,656768475,1642,26
+11,Orion Mall BLR,16-01-2019,1,Hot,Flavour,Flavour,1,771.42,656768475,1642,27
+11,Orion Mall BLR,16-01-2019,1,Hot,Retail,Retail,1,771.42,656768475,1642,28
+11,Orion Mall BLR,16-01-2019,1,Madeira Red,Designer Drinks,Beverage,1,771.42,656768475,1642,29
+11,Orion Mall BLR,16-01-2019,1,Strips Pita Slsa,Meal Deals,Food,1,771.42,656768475,1642,30
+11,Orion Mall BLR,16-01-2019,1,Wedges RegC,Sides,Food,1,771.42,656768475,1642,31
+11,Orion Mall BLR,17-01-2019,1,Brst Brgr 1SD,BPW,Food,1,1376.18,1140745244,2852,32
+11,Orion Mall BLR,17-01-2019,1,Hot,Flavour,Flavour,1,1376.18,1140745244,2852,33
+11,Orion Mall BLR,17-01-2019,1,Hot,Retail,Retail,1,1376.18,1140745244,2852,34
+11,Orion Mall BLR,17-01-2019,1,Mush Pnr Pta 1SD,Peri Peri Veg,Food,1,1376.18,1140745244,2852,35
+11,Orion Mall BLR,17-01-2019,1,Port Salad Reg,Sides,Food,1,1376.18,1140745244,2852,36
+11,Orion Mall BLR,17-01-2019,1,Any Piece,Special Instruction,Special Instruction,1,1504.75,1243940291,3110,37
+11,Orion Mall BLR,17-01-2019,1,Chips RegC,Sides,Food,1,1504.75,1243940291,3110,38
+11,Orion Mall BLR,17-01-2019,1,Chk Livers Port,Appeatesers,Food,1,1504.75,1243940291,3110,39
+11,Orion Mall BLR,17-01-2019,1,Citra Bliss,Designer Drinks,Beverage,1,1504.75,1243940291,3110,40
+11,Orion Mall BLR,17-01-2019,1,EspetadaCar 2SD,Peri Peri Chicken,Food,1,1504.75,1243940291,3110,41
+11,Orion Mall BLR,17-01-2019,1,Lemon & herb*,Flavour,Flavour,1,1504.75,1243940291,3110,42
+11,Orion Mall BLR,17-01-2019,1,Mild,Flavour,Flavour,1,1504.75,1243940291,3110,43
+11,Orion Mall BLR,17-01-2019,1,Mild,Retail,Retail,1,1504.75,1243940291,3110,44
+11,Orion Mall BLR,17-01-2019,1,Spicy Rice RegC,Sides,Food,1,1504.75,1243940291,3110,45
+11,Orion Mall BLR,17-01-2019,1,Xtra Hot,Flavour,Flavour,1,1504.75,1243940291,3110,46
+11,Orion Mall BLR,17-01-2019,1,GarlicBred RegC,Sides,Food,1,1376.18,1140745244,2852,47
+11,Orion Mall BLR,17-01-2019,1,Hot,Flavour,Flavour,1,1376.18,1140745244,2852,48
+11,Orion Mall BLR,17-01-2019,1,Hot,Retail,Retail,1,1376.18,1140745244,2852,49
+11,Orion Mall BLR,17-01-2019,1,1/4 Ckn 1SD,Peri Peri Chicken,Food,1,1504.75,1243940291,3110,50
+11,Orion Mall BLR,17-01-2019,1,Char Grl Vg RegC,Sides,Food,1,1504.75,1243940291,3110,51
+11,Orion Mall BLR,17-01-2019,1,Lemon&Herb,Flavour,Flavour,1,1504.75,1243940291,3110,52
+11,Orion Mall BLR,24-01-2019,1,1/4 Chk,Peri Peri Chicken,Food,1,0,39998080,100,53
+11,Orion Mall BLR,24-01-2019,1,1/4 Chk Rice,Meal Deals,Food,1,0,39998080,100,54
+11,Orion Mall BLR,24-01-2019,1,Fanta @ 330ml,Soft Drinks,Beverage,1,0,39998080,100,55
+11,Orion Mall BLR,24-01-2019,1,GarlicBred RegC,Sides,Food,1,0,39998080,100,56
+11,Orion Mall BLR,24-01-2019,1,Instruction,Special Instruction,Special Instruction,1,0,39998080,100,57
+11,Orion Mall BLR,24-01-2019,1,Staff Meal,,,1,0,39998080,100,58
+11,Orion Mall BLR,24-01-2019,1,Staff Meal,,,1,0,39998080,100,59
+11,Orion Mall BLR,24-01-2019,1,Staff Meal,,,1,0,39998080,100,60
+11,Orion Mall BLR,24-01-2019,1,Xtra Hot,Flavour,Flavour,1,0,39998080,100,61
+11,Orion Mall BLR,24-01-2019,1,Xtra Hot*,Flavour,Flavour,1,0,39998080,100,62
+11,Orion Mall BLR,19-02-2019,1,3 Bean Sald RegC,Sides,Food,1,280.95,264787290,662,63
+11,Orion Mall BLR,19-02-2019,1,Bowl O Paner 1SD,Meal Deals,Food,1,280.95,264787290,662,64
+11,Orion Mall BLR,19-02-2019,1,Mild,Flavour,Flavour,1,280.95,264787290,662,65
+11,Orion Mall BLR,19-02-2019,1,Mild,Retail,Retail,1,280.95,264787290,662,66
+11,Orion Mall BLR,20-02-2019,1,1/4 Chk Rice,Meal Deals,Food,1,1169.52,975953154,2440,67
+11,Orion Mall BLR,20-02-2019,1,4 Ckn Wings,Appeatesers,Food,1,1169.52,975953154,2440,68
+11,Orion Mall BLR,20-02-2019,1,Bndl Meal NVeg,Meal Deals,Combos,1,1169.52,975953154,2440,69
+11,Orion Mall BLR,20-02-2019,1,Chips RegC,Sides,Food,1,1169.52,975953154,2440,70
+11,Orion Mall BLR,20-02-2019,1,Chk Lvr Rice 1SD,Meal Deals,Food,1,1169.52,975953154,2440,71
+11,Orion Mall BLR,20-02-2019,1,Coke,Soft Drinks,Beverage,1,1169.52,975953154,2440,72
+11,Orion Mall BLR,20-02-2019,1,Mild,Flavour,Flavour,1,1169.52,975953154,2440,73
+11,Orion Mall BLR,20-02-2019,1,Mild,Retail,Retail,1,1169.52,975953154,2440,74
+11,Orion Mall BLR,20-02-2019,1,Mild*,Flavour,Flavour,1,1169.52,975953154,2440,75
+11,Orion Mall BLR,20-02-2019,1,PnApl Car Sau IC,Desserts,Food,1,1169.52,975953154,2440,76
+11,Orion Mall BLR,20-02-2019,1,Spicy Rice Reg,Sides,Food,1,1169.52,975953154,2440,77
+11,Orion Mall BLR,17-01-2019,1,Rstd Veg Meal,BPW,Food,2,1376.18,1140745244,2852,78
+11,Orion Mall BLR,17-01-2019,1,Rstd Veg Meal,Peri Peri Veg,Food,2,1376.18,1140745244,2852,79
+9,Epicuria DEL,25-02-2019,2,1/4 Chk,Peri Peri Chicken,Food,1,395,355982913,890,80
+9,Epicuria DEL,25-02-2019,2,Chips RegC,Sides,Food,1,395,355982913,890,81
+9,Epicuria DEL,25-02-2019,2,Coke,Soft Drinks,Beverage,1,395,355982913,890,82
+9,Epicuria DEL,25-02-2019,2,Mild*,Flavour,Flavour,1,395,355982913,890,83
+9,Epicuria DEL,25-02-2019,2,Vistara@395,Cricket Offers,Combos,1,395,355982913,890,84
+9,Epicuria DEL,13-04-2019,2,Citra,Designer Drinks,Beverage,1,1413.57,1171143785,2928,85
+9,Epicuria DEL,13-04-2019,2,Full Chk Plt 2SD,Sharing Platters,Food,1,1413.57,1171143785,2928,86
+9,Epicuria DEL,13-04-2019,2,Mild**,Flavour,Flavour,1,1413.57,1171143785,2928,87
+9,Epicuria DEL,13-04-2019,2,Spicy Rice RegC,Sides,Food,1,1413.57,1171143785,2928,88
+9,Epicuria DEL,13-04-2019,2,Wedges RegC,Sides,Food,1,1413.57,1171143785,2928,89
+9,Epicuria DEL,17-04-2019,2,Freshlime Soda,Soft Drinks,Beverage,1,585.71,508775579,1272,90
+9,Epicuria DEL,17-04-2019,2,Mild,Flavour,Flavour,1,585.71,508775579,1272,91
+9,Epicuria DEL,17-04-2019,2,Mild,Retail,Retail,1,585.71,508775579,1272,92
+9,Epicuria DEL,17-04-2019,2,Mix,Flavour,Flavour,1,585.71,508775579,1272,93
+9,Epicuria DEL,17-04-2019,2,Sauc Tnd Vg Rice,Meal Deals,Food,1,585.71,508775579,1272,94
+11,Orion Mall BLR,07-01-2019,2,Chips RegC,Sides,Food,1,685.58,588771739,1472,95
+11,Orion Mall BLR,07-01-2019,2,Dip Perinaise,Add On,Food,1,685.58,588771739,1472,96
+11,Orion Mall BLR,07-01-2019,2,Lemon&Herb,Flavour,Flavour,1,685.58,588771739,1472,97
+11,Orion Mall BLR,07-01-2019,2,Mild,Flavour,Flavour,1,685.58,588771739,1472,98
+11,Orion Mall BLR,07-01-2019,2,Mild,Retail,Retail,1,685.58,588771739,1472,99
+11,Orion Mall BLR,07-01-2019,2,Smart Water,Soft Drinks,Beverage,1,685.58,588771739,1472,100
+11,Orion Mall BLR,07-01-2019,2,Strips Pita Slsa,Meal Deals,Food,1,685.58,588771739,1472,101
+11,Orion Mall BLR,07-01-2019,2,Veg Pita 1SD,Peri Peri Veg,Food,1,685.58,588771739,1472,102
+11,Orion Mall BLR,17-01-2019,2,Char Grl Vg RegC,Sides,Food,1,2439.51,1991904389,4980,103
